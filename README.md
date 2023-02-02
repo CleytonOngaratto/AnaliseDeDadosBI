@@ -7,7 +7,7 @@ Este projeto foi desenvolvido utilizando a ferramenta Power BI. A finalidade é 
 
 No projeto, os dados do PIB são categorizados por ano, região e município. Também foi implementado um indicador para remover filtros e incluídas Dicas de Ferramentas nos gráficos de colunas e funil, que apresentam indicadores importantes. Além disso, foi criado um menu de navegação entre as páginas, através de botões, e um botão de filtros para permitir uma segmentação de dados dinâmica. Um botão de lâmpada também foi adicionado para alternar entre layout claro e escuro. Por fim, foi incluída uma página onde os resultados são filtrados pelos maiores e menores ofensores.
 
-![Print das Páginas]( https://uploaddeimagens.com.br/imagens/YJrCkmo)
+<img src ="./Layouts/Projeto Gama.png">
 
 
 
